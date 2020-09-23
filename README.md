@@ -1,8 +1,8 @@
 # Basic-on-shape
 
-* [Table of Contents](#table-of-contents)
+## [Table of Contents](#table-of-contents)
 * [Base](#Base)
-* [SH](#SH)
+* [Mount](#Mount)
 * [Fork](#Fork)
 
 ## Base
