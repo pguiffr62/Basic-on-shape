@@ -7,7 +7,7 @@
 
 ## Base
 <img src="media/octocat.jpg" width="75">
-I found that OnShape in pretty easy to get used to with a background in SolidWorks, I enjoy the short cuts. The only trouble I had with this peice was that I dimentioned the holes from the center of the circle rather than the edge and it messed up my linear patern. 
+I found that OnShape in pretty easy to get used to with a background in SolidWorks, I enjoy the short cuts. The only trouble I had with this peice was that I dimentioned the holes from the center of the circle rather than the edge and it messed up my linear patern.
 [Link to Base in OnShape](https://cvilleschools.onshape.com/documents/afeef031e4073e22c946cfba/w/67ae8670993e7f87867fd92c/e/6a970878e8ec47313dc94d94)
 
 ## Mount 
