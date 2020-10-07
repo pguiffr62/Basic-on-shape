@@ -6,7 +6,7 @@
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [Axle and COllar](#Axle and collar)
+* [Axle and COllar](#Axle and COllar)
 * [Sub Asemmbly](#Sub Asemmbly)
 * [Final Assembly](#Final Assembly)
 
