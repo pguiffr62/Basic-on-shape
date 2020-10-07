@@ -4,6 +4,11 @@
 * [Base](#Base)
 * [Mount](#Mount)
 * [Fork](#Fork)
+* [Tire](#Tire)
+* [Wheel](#Wheel)
+* [Axle and COllar](#Axle and collar)
+* [Sub Asemmbly](#Sub Asemmbly)
+* [Final Assembly](#Final Assembly)
 
 ## Base
 ![Screenshot 2020-09-23 at 11 11 47 AM](https://user-images.githubusercontent.com/55250502/95286164-95d2ba80-0830-11eb-9e07-9186dd0d1661.png)
