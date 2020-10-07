@@ -6,6 +6,14 @@
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
+* [Axle and Collar](#axle-and-collar)
+* [Sub Assembly](#Sub-Assembly)
+* [Final Assembly](#final-assembly)
+* [On Shape Challenge](#On-Shape-challenge)
+* [Cube](#Cube)
+
+
+# Caster 
 
 ## Base
 ![Screenshot 2020-09-23 at 11 11 47 AM](https://user-images.githubusercontent.com/55250502/95286164-95d2ba80-0830-11eb-9e07-9186dd0d1661.png)
@@ -57,7 +65,7 @@ I used mostly fixed mates to attach the base and mount and then revolute mates t
 
 # ON Shape Challenge 
 
-##cube 
+## cube 
 ![Screenshot 2020-10-07 at 1 08 48 PM](https://user-images.githubusercontent.com/55250502/95364543-f4cf1880-089e-11eb-8690-310b07ebe8a8.png)
 
 I forgot to make the extrude symetric but once my pattern didnt work I fixed it. I thought I could do the circular pattern By using the origin as the axis but if you use the little pie looking icon next to the axis entity and select the mate connector it works perfectly. I also learned how to change the color of my parts by going to the left side and selecting the appearnce icon which has three circular signs.
