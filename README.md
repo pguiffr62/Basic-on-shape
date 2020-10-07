@@ -6,9 +6,6 @@
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [Axle and COllar](#Axle and COllar)
-* [Sub Asemmbly](#Sub Asemmbly)
-* [Final Assembly](#Final Assembly)
 
 ## Base
 ![Screenshot 2020-09-23 at 11 11 47 AM](https://user-images.githubusercontent.com/55250502/95286164-95d2ba80-0830-11eb-9e07-9186dd0d1661.png)
@@ -40,7 +37,7 @@ The wheel was created similarly to the tire but using different widths to create
 
 [Link to Wheel in OnShape](https://cvilleschools.onshape.com/documents/a5e98fe03b77ac4ca1183eba/w/59436f2dd1c8afc31e39633c/e/d3ff89e3ccf4ea49bcea0ac7)
 
-## Axle and COllar
+## Axle and Collar
 ![Screenshot 2020-10-06 at 11 40 37 PM](https://user-images.githubusercontent.com/55250502/95286297-f235da00-0830-11eb-9f06-84f6a878a854.png)
 This was pretty straight forward I learned how to make an edge of an extruded peice a sketch entity which helped me easily make flat peices on the axle. To add the collar I had to create a new part with in the same piece assembly and make sure it was new not adding. 
 
