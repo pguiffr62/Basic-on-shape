@@ -55,4 +55,14 @@ I used mostly fixed mates to attach the base and mount and then revolute mates t
 
 [Link to Final Assembly in OnShape](https://cvilleschools.onshape.com/documents/574c22962f1025339066eeb1/w/da79442973f503c6bf439e46/e/baabcd4c222cf6d243fdfcbb)
 
+# ON Shape Challenge 
+
+##cube 
+![Screenshot 2020-10-07 at 1 08 48 PM](https://user-images.githubusercontent.com/55250502/95364543-f4cf1880-089e-11eb-8690-310b07ebe8a8.png)
+
+I forgot to make the extrude symetric but once my pattern didnt work I fixed it. I thought I could do the circular pattern By using the origin as the axis but if you use the little pie looking icon next to the axis entity and select the mate connector it works perfectly. I also learned how to change the color of my parts by going to the left side and selecting the appearnce icon which has three circular signs.
+
+[Link to CUbe in OnShape](https://cvilleschools.onshape.com/documents/8f5223601eb48323f07c4c80/w/bc78850b598a426def15f527/e/9df2adf20f20c8ff235d7f8d)
+
+
 
