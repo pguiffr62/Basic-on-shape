@@ -16,7 +16,7 @@ I really didn't have any promblemes with this peice I learned how to add a secon
 [Link to Mount in OnShape](https://cvilleschools.onshape.com/documents/7b78eca10db88e813a7b2e36/w/5eeb3394ebd301c0155c4d93/e/e891ffa3be126af3df84a015)
 
 ## Fork 
-<img src= ="75">
+![Screenshot 2020-09-23 at 4 24 02 PM (1)](https://user-images.githubusercontent.com/55250502/95286112-691ea300-0830-11eb-8ce7-04c68853393f.png)
 This peice was fairly straight forward, I had to learn the mirror function but as long as the correct plane is selected its easy. 
 [Link to FOrk in OnShape](https://cvilleschools.onshape.com/documents/26e0f0c2fd626f54d3bf85de/w/db7b7f7fdc708048a8addf0e/e/30852c85d39c4d49840e2984)
 
