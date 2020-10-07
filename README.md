@@ -16,8 +16,29 @@ I really didn't have any promblemes with this peice I learned how to add a secon
 [Link to Mount in OnShape](https://cvilleschools.onshape.com/documents/7b78eca10db88e813a7b2e36/w/5eeb3394ebd301c0155c4d93/e/e891ffa3be126af3df84a015)
 
 ## Fork 
-<img src="Screenshot 2020-09-23 at 4.24.02 PM.jpg" width="75">
+<img src=https://drive.google.com/file/d/1n9qlxdrs-E3M3e-NyC04bzhuuP7_1xvO/view?usp=sharing width="75">
 This peice was fairly straight forward, I had to learn the mirror function but as long as the correct plane is selected its easy. 
 [Link to FOrk in OnShape](https://cvilleschools.onshape.com/documents/26e0f0c2fd626f54d3bf85de/w/db7b7f7fdc708048a8addf0e/e/30852c85d39c4d49840e2984)
+
+## TIre 
+<img src="Screenshot 2020-09-23 at 4.24.02 PM.jpg" width="75">
+The tire required you to make a piece of symetric geometry and revolve it around the orgin using fillets to create a rounded edge. 
+[Link to FOrk in OnShape](https://cvilleschools.onshape.com/documents/26e0f0c2fd626f54d3bf85de/w/db7b7f7fdc708048a8addf0e/e/30852c85d39c4d49840e2984)
+
+## Wheel
+<img src="Screenshot 2020-09-23 at 4.24.02 PM.jpg" width="75">
+The wheel was created similarly to the tire but using different widths to create a hub effect. Then a sketch was laid on the face of the wheel and patterend to create the slats in the it. 
+[Link to FOrk in OnShape](https://cvilleschools.onshape.com/documents/26e0f0c2fd626f54d3bf85de/w/db7b7f7fdc708048a8addf0e/e/30852c85d39c4d49840e2984)
+
+## Axle and COllar
+This was pretty straight forward I learned how to make an edge of an extruded peice a sketch entity which helped me easily make flat peices on the axle. To add the collar I had to create a new part with in the same piece assembly and make sure it was new not adding. 
+
+## Sub Assembly 
+
+I learned how to mate using mate connectors which use a refernence like an orgin or edge to estimate what mate you want. 
+
+## Final Assembly 
+
+I used mostly fixed mates to attach the base and mount and then revolute mates to but in the fork, axle, and wheel so that they could move within the assembly. 
 
 
