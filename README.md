@@ -11,6 +11,7 @@
 * [Final Assembly](#final-assembly)
 * [On Shape Challenge](#On-Shape-challenge)
 * [Cube](#Cube)
+* [Final Assembly 2](#Final-assembly-2)
 
 
 # Caster 
@@ -71,6 +72,15 @@ I used mostly fixed mates to attach the base and mount and then revolute mates t
 I forgot to make the extrude symetric but once my pattern didnt work I fixed it. I thought I could do the circular pattern By using the origin as the axis but if you use the little pie looking icon next to the axis entity and select the mate connector it works perfectly. I also learned how to change the color of my parts by going to the left side and selecting the appearnce icon which has three circular signs.
 
 [Link to CUbe in OnShape](https://cvilleschools.onshape.com/documents/8f5223601eb48323f07c4c80/w/bc78850b598a426def15f527/e/9df2adf20f20c8ff235d7f8d)
+
+## Final Assembly 2
+
+![Screenshot 2020-10-06 at 11 39 17 PM](![Screenshot 2020-10-13 at 11 01 29 AM](https://user-images.githubusercontent.com/55250502/95879404-529ead00-0d44-11eb-88a9-ab5cae6855b5.png)
+
+I used mostly fixed mates to attach the base and mount and then revolute mates to but in the fork, axle, and wheel so that they could move within the assembly.
+This was quite difficult as i couldnt get the revolute mates to work for a very long time but once i realized it was my bracket mesurments that were off I was able to edit them and with a few quick mates I was done. 
+
+[Link to Final Assembly in OnShape](https://cvilleschools.onshape.com/documents/28919d728abc157eded7392b/w/6bb21f2d8debc87c29726a48/e/03dfda04af4d345620fc6933)
 
 
 
