@@ -12,7 +12,7 @@
 * [On Shape Challenge](#On-Shape-challenge)
 * [Cube](#Cube)
 * [Final Assembly 2](#Final-assembly-2)
-* [Dorthy's Dowels Pins](#Dorthy's-Dowels-Pins)
+* [Dorthy's Dowel Pins](#Dorthy's-Dowel-Pins)
 
 
 # Caster 
@@ -85,7 +85,7 @@ This was quite difficult as i couldnt get the revolute mates to work for a very 
 
 ## Dorthy's Dowel Pins
 
-![Screenshot 2020-10-06 at 11 39 17 PM](![Screenshot 2020-10-13 at 11 01 29 AM](https://user-images.githubusercontent.com/55250502/95879404-529ead00-0d44-11eb-88a9-ab5cae6855b5.png)
+![Screenshot 2020-10-06 at 11 39 17 PM](![Screenshot 2020-11-06 at 12 36 02 AM](https://user-images.githubusercontent.com/55250502/98330742-0bb17980-1fc9-11eb-9e29-c8accbc8a332.png)
 
 This assignment was helpful in figuring out configurations. Although Configurations where pretty simple I had some trouble learning the steps to select which feature I wanted to create a configuration for. I quickly learned to select configure assembly feature and then to select the feature I wanted to edit. I also forgot to make the fram be centered which messes up when I mirrored the hole but I fixed it by selecting the bottom line of the sketch and the origin and then clicking mid point.
 
