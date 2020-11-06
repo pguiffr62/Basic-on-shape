@@ -12,6 +12,7 @@
 * [On Shape Challenge](#On-Shape-challenge)
 * [Cube](#Cube)
 * [Final Assembly 2](#Final-assembly-2)
+* [Dorthy's Dowels Pins](#Dorthy's-Dowels-Pins)
 
 
 # Caster 
@@ -82,5 +83,12 @@ This was quite difficult as i couldnt get the revolute mates to work for a very 
 
 [Link to Final Assembly in OnShape](https://cvilleschools.onshape.com/documents/28919d728abc157eded7392b/w/6bb21f2d8debc87c29726a48/e/03dfda04af4d345620fc6933)
 
+## Dorthy's Dowel Pins
+
+![Screenshot 2020-10-06 at 11 39 17 PM](![Screenshot 2020-10-13 at 11 01 29 AM](https://user-images.githubusercontent.com/55250502/95879404-529ead00-0d44-11eb-88a9-ab5cae6855b5.png)
+
+This assignment was helpful in figuring out configurations. Although Configurations where pretty simple I had some trouble learning the steps to select which feature I wanted to create a configuration for. I quickly learned to select configure assembly feature and then to select the feature I wanted to edit. I also forgot to make the fram be centered which messes up when I mirrored the hole but I fixed it by selecting the bottom line of the sketch and the origin and then clicking mid point.
+
+[Link to Frame and Pins in OnShape](https://cvilleschools.onshape.com/documents/096e5e7a5795c23e355e94a0/w/85de683f6c23423f9c33a6e0/e/1f89534f47daedbf450df392)
 
 
